@@ -1,0 +1,27 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+
+    <v:String x:Key="File">File</v:String>
+    <v:String x:Key="Open">Open</v:String>
+    <v:String x:Key="Save">Save</v:String>
+    <v:String x:Key="Edit">Edit</v:String>
+    <v:String x:Key="Copy">Copy</v:String>
+    <v:String x:Key="Paste">Paste</v:String>
+    <v:String x:Key="Color">Colors</v:String>
+    <v:String x:Key="Fonts">Fonts</v:String>
+    <v:String x:Key="Underl">Underline</v:String>
+    <v:String x:Key="Italic">Italic</v:String>
+    <v:String x:Key="Bold">Bold</v:String>
+    <v:String x:Key="Language">Language</v:String>
+    <v:String x:Key="Theme">Theme</v:String>
+    <v:String x:Key="RU">Russian</v:String>
+    <v:String x:Key="EN">English</v:String>
+    <v:String x:Key="Night">Night</v:String>
+    <v:String x:Key="Day">Day</v:String>
+    <v:String x:Key="RecentFiles">Open Files</v:String>
+    <v:String x:Key="Undo">Undo</v:String>
+    <v:String x:Key="Redo">Redo</v:String>
+    <v:String x:Key="Event">Event</v:String>
+    <v:String x:Key="Data">Data</v:String>
+</ResourceDictionary>

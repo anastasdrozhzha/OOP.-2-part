@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="Wpf_4_5_Word.MyBotton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Wpf_4_5_Word"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Button x:Name="Standart" Width="400" Height="100" Margin="200,96,200,254" >Standart button</Button>
+        <Button x:Name="MyStyle" Width="400" Height="100" RenderTransformOrigin="0.502,1.804" Margin="200,259,200,91" Style="{DynamicResource NewStyle}" >Button for my application</Button>
+    </Grid>
+</UserControl>
