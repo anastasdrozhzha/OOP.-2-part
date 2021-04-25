@@ -1,0 +1,24 @@
+﻿<Window x:Class="dependency_property.coloPick"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:dependency_property"
+        mc:Ignorable="d"
+        Title="Свойства завсимости" Height="327.393" Width="508.428"  Icon="IMG/icons8-pixar-lamp-480.png">
+    <Grid Background="#f4d5da">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <Image Source="IMG/klipartz.com (10).png" Height="173" Margin="100,0,164,0"/>
+            <TextBox Text="Измени фон слайдера или боишься??????" Background="#f4d5da" HorizontalAlignment="Center" IsReadOnly="True"/>
+        </StackPanel>
+        <StackPanel x:Name="ColorPickerPanel" Grid.Row="2" Grid.Column="0" Background="#f4d5da"  
+                    local:ColorPicker.ColorChanged="ColorPickerPanel_OnColorChanged_" VerticalAlignment="Center" Height="auto">
+            <local:ColorPicker RenderTransformOrigin="0.5,1.265" ></local:ColorPicker>
+        </StackPanel>
+    </Grid>
+</Window>

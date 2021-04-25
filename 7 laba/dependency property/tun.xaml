@@ -1,0 +1,31 @@
+﻿<Window x:Class="dependency_property.tun"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:dependency_property"
+        mc:Ignorable="d"
+        Title="Туннелированние" Height="485.393" Width="508.428"  Icon="IMG/icons8-pixar-lamp-480.png">
+    <Grid Background="#f4d5da">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label BorderBrush="#c36864" BorderThickness="3"  HorizontalAlignment="Center" PreviewMouseUp="Some_Clicked">
+            <StackPanel PreviewMouseUp="Some_Clicked">
+                <TextBlock Margin="3" FontSize="13" PreviewMouseUp="Some_Clicked">
+                Окно для реализации маршутизации событий
+                </TextBlock>
+                <Image Source="IMG/pngegg (9).png" Width="196" Height="130" PreviewMouseUp="Some_Clicked"></Image>
+                <TextBlock Margin="3" FontSize="13" MouseUp="Some_Clicked">
+                Маршрутизация событий
+                </TextBlock>
+            </StackPanel>
+        </Label>
+        <ListBox Grid.Row="1" Margin="3" Name="lbInfo"></ListBox>
+        <Button Grid.Row="3" Margin="3" Padding="3" HorizontalAlignment="Right"
+                Click="Button_Click">Очистить</Button>
+    </Grid>
+</Window>

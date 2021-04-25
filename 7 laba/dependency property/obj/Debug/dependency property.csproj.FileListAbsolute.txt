@@ -1,0 +1,28 @@
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\MainWindow.g.cs
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\Romb.g.cs
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\App.g.cs
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\dependency property_MarkupCompile.cache
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\dependency property_MarkupCompile.lref
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\bin\Debug\dependency property.exe.config
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\bin\Debug\dependency property.exe
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\bin\Debug\dependency property.pdb
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\MainWindow.baml
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\Romb.baml
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\dependency property.g.resources
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\dependency_property.Properties.Resources.resources
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\dependency property.csproj.GenerateResource.cache
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\dependency property.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\dependency property.exe
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\dependency property.pdb
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\NewELEM.g.cs
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\NewELEM.baml
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\dependency property.csprojAssemblyReference.cache
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\Marsh.g.cs
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\Marsh.baml
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\tun.g.cs
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\tun.baml
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\coloPick.g.cs
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\ColorPicker.g.cs
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\coloPick.baml
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\ООП\Лабораторные\dependency property\obj\Debug\ColorPicker.baml
